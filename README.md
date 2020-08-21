@@ -12,7 +12,7 @@ A website created with jQuery and HTML where a user can submit "...".
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **Homepage** | User accesses localhost:5004 | Homepage with user input form |
+| Program returns a string of numbers from 0 to specified number | 5 | 0, 1, 2, 3, 4, 5 |
 | **Program Gathers User Input** | User input: "pants" | Output: "pants" |
 | **Program Removes Spaces from User Input**| User Input: "pants pants" | Output: "pantspants" |
 | **Program Removes Punctuation from User Input**| Input: "p#an^t@s  /p(ant%s" | Output: "pantspants" |
