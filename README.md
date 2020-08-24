@@ -12,9 +12,10 @@ A website created with jQuery and HTML where a user can submit a number into a f
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| Program returns "Won't you be my neighbor?"  | 3 | "Won't you be my neighbor?" |
-| Program returns "Boop!" | 2 | "Boop!" |
-| Program returns "Beep!" | 1 | Beep! |
+| Program returns a range of numbers from 0 to users inputted number | "4" | "0, 1, 2, 3, 4" |
+| Program returns "Won't you be my neighbor?" after user inputs "3"  | "3" | "Won't you be my neighbor?" |
+| Program returns "Boop!" after user inputs "2" | "2" | "Boop!" |
+| Program returns "Beep!" after user inputs "1" | "1" | "Beep!" |
 
 
 ## Setup/Installation Requirements
