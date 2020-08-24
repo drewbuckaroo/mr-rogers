@@ -13,7 +13,7 @@ A website created with jQuery and HTML where a user can submit "...".
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
 | Program returns "Won't you be my neighbor?"  | 3 | "Won't you be my neighbor?" |
-| **Program Gathers User Input** | User input: "pants" | Output: "pants" |
+| Program returns "Boop!" | 2 | "Boop!" |
 | **Program Removes Spaces from User Input**| User Input: "pants pants" | Output: "pantspants" |
 | **Program Removes Punctuation from User Input**| Input: "p#an^t@s  /p(ant%s" | Output: "pantspants" |
 | **Program Assigns Characters Numeric Values** | Input: "pants" | Output: "3 1 1 1 1" |
