@@ -24,7 +24,9 @@ $(document).ready(function() {
     let roboArray = talkRobo(input).toString();
     $("#result").text(roboArray);
 
-    
-  }
-}
+    $("#result").show();
+    $("#formOne").hide();
+
+  });
+});
 
