@@ -41,6 +41,7 @@ A website created with jQuery and HTML where a user can submit a number into a f
 * CSS
 * JavaScript
 * jQuery
+* Bootstrap
 
 ## Support and contact details
 
