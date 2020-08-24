@@ -8,7 +8,7 @@ function talkRobo(input){
       roboArray.push("Boop!");
     } else if (index.toString().includes("1")) {
       roboArray.push("Beep!");
-      } else {
+    } else {
         roboArray.push(i);
       }
   }
