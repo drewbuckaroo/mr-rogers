@@ -28,6 +28,8 @@ label {
 }
 
 p {
+  display:block;
+  display:none;
   color: red;
   border: 20px dashed blue;
   padding: 10px;
