@@ -1,0 +1,40 @@
+body {
+  background-image: url(/img/robot.jpg)
+  
+}
+
+h1 {
+  color:blue;
+  border: 20px dashed black;
+  padding: 10px;
+  background-color:lightgrey;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 75%;
+  box-sizing: border-box; 
+}
+
+label {
+  color:blue;
+  border: 20px dashed black;
+  padding: 10px;
+  background-color:lightgrey;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 75%;
+  box-sizing: border-box; 
+}
+
+p {
+  color: red;
+  border: 20px dashed blue;
+  padding: 10px;
+  background-color:black;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 75%;
+  box-sizing: border-box; 
+}
