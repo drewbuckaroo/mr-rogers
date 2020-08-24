@@ -7,11 +7,13 @@ function talkRobo(input){
     } else if (index.toString().includes("2")) {
       roboArray.push("Boop!");
     } else if (index.toString().includes("1")) {
-        console.log("Beep!");
-      
-    } else {}
+      roboArray.push("Beep!")
+      } else {
+        roboArray.push(i);
+      }
 
   }
+  console.log(roboArray);
 
 }
 
