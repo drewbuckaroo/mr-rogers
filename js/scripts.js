@@ -1,13 +1,12 @@
-const array = [1, 2, 3];
-let newArray = [];
-for (let index = 0; index < array.length; index++) {
-    newArray.push(array[index] = "Won't you be my neighbor?");
+//business logic
+function talkRobo(input){
+ let roboArray = [];
+  for (let i=0; i < i.length; i++) {
+    if (index.toString().includes("3")) {
+      console.log("Won't you be my neighbor?")
+    } else {}
+
+  }
+
 }
-    if ((let index = 3); ("Won't you be my neighbor?"))
-    console.log(index)
-
-  //const roboList = ["Beep!", "Boop!", "Won't you be my neighbor?"];
-
-
-
 
