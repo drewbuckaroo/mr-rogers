@@ -10,7 +10,7 @@ function talkRobo(input){
       roboArray.push("Beep!");
     } else {
         roboArray.push(i);
-      }
+    }
   }
   return roboArray;
 }
