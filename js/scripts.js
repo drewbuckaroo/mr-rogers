@@ -11,9 +11,20 @@ function talkRobo(input){
       } else {
         roboArray.push(i);
       }
-
   }
-  console.log(roboArray);
+  return roboArray;
+}
 
+//UI logic
+$(document).ready(function() {
+  $("#formOne").submit(function(event) {
+    event.preventDefault();
+
+    let input = parseInt($("#number").val());
+    let roboArray = talkRobo(input).toString();
+    $("#result").text(roboArray);
+
+    
+  }
 }
 
