@@ -1,12 +1,12 @@
 //business logic
 function talkRobo(input){
  let roboArray = [];
-  for (let i=0; i < input.length; i++) {
-    if (index.toString().includes("3")) {
+  for (let i=0; i <= input; i++) {
+    if (i.toString().includes("3")) {
       roboArray.push("Won't you be my neighbor?");
-    } else if (index.toString().includes("2")) {
+    } else if (i.toString().includes("2")) {
       roboArray.push("Boop!");
-    } else if (index.toString().includes("1")) {
+    } else if (i.toString().includes("1")) {
       roboArray.push("Beep!");
     } else {
         roboArray.push(i);
@@ -25,7 +25,6 @@ $(document).ready(function() {
     $("#result").text(roboArray);
     $("#result").show();
     $("#formOne").hide();
-    console.log("hi")
   });
 });
 
