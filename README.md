@@ -21,11 +21,19 @@ A website created with jQuery and HTML where a user can submit "...".
 
 ## Setup/Installation Requirements
 
-1. To run this program, you must have a C# compiler. I use [Mono](http://www.mono-project.com).
-2. Install the [Nancy](http://nancyfx.org/) framework to use the view engine. Follow the link for installation instructions.
-3. Clone this repository.
-4. Open the command line--I use PowerShell--and navigate into the repository. Use the command "dnx kestrel" to start the server.
-5. On your browser, navigate to "localhost:5004" and enjoy!
+1. 
+
+
+2. 
+
+
+3. 
+
+
+4. 
+
+
+5. 
 
 ## Known Bugs
 * No known bugs at this time.

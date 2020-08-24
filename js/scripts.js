@@ -25,6 +25,7 @@ $(document).ready(function() {
     $("#result").text(roboArray);
     $("#result").show();
     $("#formOne").hide();
+    console.log("hi")
   });
 });
 
